@@ -40,13 +40,14 @@ The file `references.csv` contains the full bibliographic information for all re
 
 ## How to cite
 
-If you use this catalogue, please cite the Saas-Fee book chapter and this repository:
-
+If you use this catalogue, please cite both the Saas-Fee book chapter and this database:
 ```
 Bañados, E. (2026). "Observations of Early Black Holes Before and After JWST",
     in Galaxies and Black Holes in the First Billion Years as seen by the JWST,
-    Saas-Fee Advanced Course 54, Springer.
+    Saas-Fee Advanced Course 54, Springer. arXiv:TBD
 ```
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19094457.svg)](https://doi.org/10.5281/zenodo.19094457)
 
 Please also cite the original discovery and redshift papers for individual quasars — the `disc_bibcode` and `redshift_bibcode` columns provide the relevant ADS bibcodes.
 
