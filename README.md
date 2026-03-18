@@ -11,7 +11,7 @@ Compiled for the 54th Saas-Fee Advanced Course book chapter:
 
 This database builds on the compilation presented in [Fan, Bañados & Simcoe (2023, ARA&A, 61, 373)](https://ui.adsabs.harvard.edu/abs/2023ARA%26A..61..373F/abstract) and is updated as new discoveries are published.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19094457)](https://doi.org/10.5281/zenodo.19094457)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19094457.svg)](https://doi.org/10.5281/zenodo.19094457)
 
 ## The catalogue
 
