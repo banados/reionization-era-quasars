@@ -1,0 +1,34 @@
+{
+    "title": "Reionization-Era Quasars: A Catalogue of Spectroscopically Confirmed Quasars at z >= 5.3",
+    "description": "A catalogue of spectroscopically confirmed quasars at redshifts z >= 5.3, compiled for the Saas-Fee Advanced Course 54 book chapter 'Observations of Early Black Holes Before and After JWST'. Includes coordinates, spectroscopic redshifts, UV magnitudes, and discovery/redshift references with ADS bibcodes.",
+    "upload_type": "dataset",
+    "creators": [
+        {
+            "name": "Bañados, Eduardo",
+            "affiliation": "Max Planck Institute for Astronomy, Heidelberg, Germany",
+            "orcid": "0000-0002-2931-7824"
+        }
+    ],
+    "license": "cc-by-4.0",
+    "keywords": [
+        "quasars",
+        "high-redshift",
+        "reionization",
+        "supermassive black holes",
+        "early universe",
+        "JWST",
+        "catalogue"
+    ],
+    "related_identifiers": [
+        {
+            "identifier": "10.1146/annurev-astro-052920-102455",
+            "relation": "isSupplementTo",
+            "scheme": "doi"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "astronomy-general"
+        }
+    ]
+}
