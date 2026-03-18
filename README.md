@@ -52,7 +52,7 @@ Please also cite the original discovery and redshift papers for individual quasa
 
 ## Maintainer notes
 
-The catalogue is maintained by [Eduardo Bañados](https://www.mpia.de/banados) (MPIA Heidelberg).  Corrections and suggestions are welcome — please open an issue or submit a pull request.
+The catalogue is maintained by [Eduardo Bañados](https://banados.www3.mpia.de/) (MPIA Heidelberg).  Corrections and suggestions are welcome — please open an issue or submit a pull request.
 
 The `maintainer/` folder contains the source files and scripts used to build and validate the catalogue.  When updating:
 
